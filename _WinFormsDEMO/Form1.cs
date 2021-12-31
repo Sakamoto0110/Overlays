@@ -16,4 +16,4 @@ namespace _WinFormsDEMO
             overlay.IsCaptionEnabled = true;
         }
     }
-}
+} 
